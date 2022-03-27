@@ -1,4 +1,4 @@
-package com.InetAddress.d1_InetAddress;
+package com.network.d1_InetAddress;
 
 import java.net.InetAddress;
 
